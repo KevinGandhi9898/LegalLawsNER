@@ -33,7 +33,7 @@ setup(
         exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
     license="MIT",
     install_requires=[
-        "torch<1.13.0,>=1.10.0",
+        # "torch<1.13.0,>=1.10.0",
         "torchvision<0.14.0,>=0.8.1",
         "transformers<4.16,>=4.1",
         "pytorch-transformers==1.2.0",
