@@ -2,6 +2,6 @@
 .pytest_cache
 build
 dist
-opennyai.egg-info
+LegalLawsNER.egg-info
 create_pypi_package.sh
 .DS_Store
